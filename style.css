@@ -1,0 +1,23 @@
+.titulo{
+    background-color: #7DE5ED;
+    color: #012380;
+    display: flex;
+    justify-content: center;
+    font-family: 'Lobster', cursive;
+    font-size: 3rem;
+}
+.titulo2{
+    font-family: 'Abril Fatface', cursive;
+}
+.titulo3{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.5rem;
+}
+.contenedor{
+    display:flex;
+    justify-content: center;
+}
+button{
+    background-color:#030180;
+    color:whitesmoke;
+}
