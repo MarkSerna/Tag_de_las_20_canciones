@@ -21,3 +21,24 @@ button{
     background-color:#030180;
     color:whitesmoke;
 }
+.table td{
+    border: 1px solid;
+    text-align: center;
+}
+.table th:hover{
+    color:white;
+    background-color:#030180;
+}
+.table tr{
+    color: #012380;
+    background-color:#0097fc;
+    font-family:'Times New Roman', Times, serif;
+}
+caption{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.table td:hover{
+    color:white;
+    background-color: #030180;
+}
